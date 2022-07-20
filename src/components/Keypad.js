@@ -2,7 +2,11 @@
 
 function Keypad (){
     return (
-        <div></div>
+        <div>
+            function handleChange(event) {
+    console.log(println "Entering password ..." );
+
+        </div>
     )
 }
 
